@@ -11,7 +11,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.Bus", "Infra.Bus", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra.IoC", "Infra.IoC", "{9C25FE99-2684-4A35-842B-0A95D0FDD60B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{7BE9217E-254F-4061-8E9B-3E42727A638B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{7BE9217E-254F-4061-8E9B-3E42727A638B}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
